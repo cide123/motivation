@@ -1,0 +1,36 @@
+
+
+html{
+    background-color: black;
+}
+
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Libre Baskerville", serif;
+   
+}
+
+#first{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 50px;
+    border: solid white;
+    border-width: 10px 10px;
+    padding: 20px;
+    align-content: center;
+}
+
+img{
+    width: 750px;
+}
